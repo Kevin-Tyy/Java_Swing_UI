@@ -27,5 +27,8 @@ public class Swing {
 
         JButton submitButton = new JButton("Submit");
         frame.add(submitButton);
+
+        System.out.println("Form done");
     }
 }
+g
